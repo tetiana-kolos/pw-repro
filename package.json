@@ -1,0 +1,25 @@
+{
+  "name": "pw-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetiana-kolos/pw-repro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tetiana-kolos/pw-repro/issues"
+  },
+  "homepage": "https://github.com/tetiana-kolos/pw-repro#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.10",
+    "typescript": "^5.8.2"
+  }
+}
