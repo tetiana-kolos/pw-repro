@@ -42,3 +42,8 @@ yarn-error.log*
 coverage/
 jest/
 node_modules/
+
+# Playwright
+/playwright-report/
+/blob-report/
+/playwright/.cache/
